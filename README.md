@@ -2,7 +2,7 @@
 
 The included document is a proposal for a machine learning solution that is capable of autonomously categorizing images of wildlife into predefined species classifications.
 
-The proposal includes:
+**The proposal includes:**
 
 * Extensive research into the efficacy rates of ML solutions in similar scenarios
 * The scope and objectives of the project
