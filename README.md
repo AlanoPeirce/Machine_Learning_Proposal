@@ -4,7 +4,7 @@ The included document is a proposal for a machine learning solution that is capa
 
 **The proposal includes:**
 
-* Extensive research into the efficacy rates of ML solutions in similar scenarios
+* Extensive research into the accuracy rates of ML solutions in similar scenarios
 * The scope and objectives of the project
 * A detailed description of the methodology that will be used (the SEMMA methodology)
 * A projected timeline, sprint schedule, and an exhaustive itemization of the resources required and resulting costs
